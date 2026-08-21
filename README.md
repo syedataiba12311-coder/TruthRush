@@ -14,7 +14,7 @@ Instead of learning about misinformation through traditional lessons, TruthRush 
 
 ## 🎮 Demo
 
-🔗 **Live Demo:** `YOUR_LIVE_DEMO_URL`
+🔗 **Live Demo:** truth-rush.vercel.app
 
 🔗 **GitHub Repository:** `https://github.com/syedataiba12311-coder/TruthRush.git`
 
